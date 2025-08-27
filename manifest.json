@@ -1,0 +1,20 @@
+{
+  "short_name": "Kontrol Cerdas",
+  "name": "Aplikasi Kontrol On/Off Cerdas",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/10B981/FFFFFF?text=Kontrol",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/10B981/FFFFFF?text=Kontrol",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "kontrol.html",
+  "display": "standalone",
+  "theme_color": "#10B981",
+  "background_color": "#ffffff"
+}
